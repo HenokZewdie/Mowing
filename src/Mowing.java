@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Mowing {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 int length, width, area, TotalTime;
 int ConstArea = 20;
 int hr, min;
